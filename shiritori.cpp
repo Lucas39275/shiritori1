@@ -19,7 +19,7 @@
     int b;
     int n;
     cin>>n;
-    set<string>siritori; //文字列の集合を用意する
+    set<string>siritori; //文字列の集合を用意
     for(int i=0;i<n;i++){
         cin>>s;
         b=s.size()-1;
